@@ -10,3 +10,4 @@ Repository | Description
 [PENTESTING-BIBLE](https://github.com/14thGhost/PENTESTING-BIBLE)|Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking web technologies,and pen testing wireless networks.Resources for learning malware analysis and reverse engineering. 
 [KingOfBugBountyTips](https://github.com/14thGhost/KingOfBugBountyTips)| Tips from some well-known bughunters
 [ReconNote](https://github.com/14thGhost/ReconNote) | Web Application Security Recon Automation Framework
+[Vickie Li's Articles ](https://vickieli.medium.com/sitemap-xml-6ecc3b14b4f) | A categorized list of Vickie Li's posts
