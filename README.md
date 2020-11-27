@@ -11,3 +11,4 @@ Repository | Description
 [KingOfBugBountyTips](https://github.com/14thGhost/KingOfBugBountyTips)| Tips from some well-known bughunters
 [ReconNote](https://github.com/14thGhost/ReconNote) | Web Application Security Recon Automation Framework
 [Vickie Li's Articles ](https://vickieli.medium.com/sitemap-xml-6ecc3b14b4f) | A categorized list of Vickie Li's posts
+[Project Discovery](https://github.com/projectdiscovery) | Collection of automation tools
