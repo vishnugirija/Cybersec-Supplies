@@ -12,3 +12,4 @@ Item | Description
 [Vickie Li's Articles ](https://vickieli.medium.com/sitemap-xml-6ecc3b14b4f) | A categorized list of Vickie Li's posts
 [Project Discovery](https://github.com/projectdiscovery) | Collection of automation tools
 [GHunt](https://github.com/mxrch/GHunt) | GHunt is an OSINT tool to extract information from any Google Account using an email
+[SecLists](https://github.com/danielmiessler/SecLists) | A collection of common lists including usernames, passwords, URLs and much more
