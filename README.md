@@ -1,5 +1,7 @@
 
+# Hacking-Supplies
 
+Hi there, I hope this collection of cybersecurity resources may help you!!
 
 Item | Description
 ---- | ----
