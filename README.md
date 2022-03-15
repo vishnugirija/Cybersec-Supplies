@@ -1,5 +1,5 @@
 
-# Hacking-Supplies
+# Cybersec-Supplies
 
 Hi there, ever wondered how to get started in cybersec? or where to find the resources? or wanted a headsup? Then let me indroduce this collection of cybersec-resources that I have picked and put together along the way :) You may find almost everything related to get started in the cybersecurity here. learn more learn better and please do share. 
 
