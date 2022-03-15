@@ -1,17 +1,29 @@
 
 # Hacking-Supplies
 
-Hi there, I hope this collection of cybersecurity resources may help you!!
+Hi there, ever wondered how to get started in cybersec? or where to find the resources? or wanted a headsup? Then let me indroduce this collection of cybersec-resources that I have picked and put together along the way :) You may find almost everything related to get started in the cybersecurity here. learn more learn better and please do share. 
+
+Your contributions are always welcome !
+
+
 
 Item | Description
 ---- | ----
 [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) 			| A collection of awesome lists for hackers, pentesters & security researchers
-[Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)								| A list of resources for those interested in getting started in bug bounties 
-[how-web-works](https://github.com/vasanthk/how-web-works)        |  What happens behind the scenes when we type www.google.com in a browser?
-[PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)|Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking web technologies,and pen testing wireless networks.Resources for learning malware analysis and reverse engineering. 
 [KingOfBugBountyTips](https://github.com/KingOfBugbounty/KingOfBugBountyTips)| Tips from some well-known bughunters
-[ReconNote](https://github.com/0xdekster/ReconNote) | Web Application Security Recon Automation Framework
-[Vickie Li's Articles ](https://vickieli.medium.com/sitemap-xml-6ecc3b14b4f) | A categorized list of Vickie Li's posts
+[PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)|Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking web technologies,and pen testing wireless networks.Resources for learning malware analysis and reverse engineering. 
 [Project Discovery](https://github.com/projectdiscovery) | Collection of automation tools
-[GHunt](https://github.com/mxrch/GHunt) | GHunt is an OSINT tool to extract information from any Google Account using an email
+[ReconNote](https://github.com/0xdekster/ReconNote) | Web Application Security Recon Automation Framework
+[Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)								| A list of resources for those interested in getting started in bug bounties 
 [SecLists](https://github.com/danielmiessler/SecLists) | A collection of common lists including usernames, passwords, URLs and much more
+[Vickie Li's Articles ](https://vickieli.medium.com/sitemap-xml-6ecc3b14b4f) | A categorized list of Vickie Li's posts
+
+
+
+
+
+
+
+
+
+
